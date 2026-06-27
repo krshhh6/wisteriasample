@@ -1,0 +1,6 @@
+{
+  "name": "Wisteria Cafe & Kitchen",
+  "description": "A hyper-seductive, luxurious rooftop dining experience at Wisteria Cafe & Kitchen, featuring dark mode elegance, interactive horizontal menu, and a cinematic rooftop vibe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
